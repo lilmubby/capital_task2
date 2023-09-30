@@ -1,0 +1,40 @@
+.ls_header {
+  display: flex;
+  padding-left: 0px;
+  align-items: center;
+  gap: 0.875rem;
+  align-self: stretch;
+  border-radius: 0.5rem;
+  background: #FFF;
+}
+
+.ls_header button {
+  background-color: hsla(218, 31%, 32%, .15);
+  width: 2rem;
+  height: 2rem;
+  border-radius: 5rem;
+  color: #384A69;
+  font-family: "Poppins", sans-serif;
+  font-size: 0.8125rem;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  border: none;
+}
+
+.pipe {
+  color: #EEF2FF;
+  font-family: "Poppins", sans-serif;
+  font-size: 1rem;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 1.375rem; /* 137.5% */
+}
+
+.ls_container {
+  display: flex;
+  padding-right: 0px;
+  align-items: flex-start;
+  gap: 1rem;
+  flex: 1 0 0;
+}

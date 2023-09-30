@@ -1,0 +1,27 @@
+
+.video_title {
+  color: #9EB8FF;
+  font-family: "Poppins", sans-serif;
+  font-size: 0.625rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.video_tag{
+  display: flex;
+  padding: 2.2rem 0.25rem 0.25rem 0.25rem;
+  align-items: flex-start;
+  gap: 0.625rem;
+  align-self: stretch;
+}
+
+.video_q {
+  color: #000;
+  font-family: "Poppins", sans-serif;
+  font-size: 0.875rem;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+}
+

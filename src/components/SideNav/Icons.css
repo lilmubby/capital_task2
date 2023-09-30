@@ -1,0 +1,8 @@
+.sidebar_icon {
+  /* background-color: red; */
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 1.5rem;
+  padding: .5rem;
+}

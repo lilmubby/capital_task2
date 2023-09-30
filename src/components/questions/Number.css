@@ -1,0 +1,38 @@
+.number_tag {
+  display: flex;
+padding: 2.25rem 0.25rem 0.25rem 0.25rem;
+align-items: flex-start;
+gap: 0.625rem;
+align-self: stretch;
+}
+
+.number_title {
+  color: #E48A8F;
+  font-family: "Poppins", sans-serif;
+  font-size: 0.625rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  border-radius: 0.5rem 0.5rem 0rem 0rem;
+  background: #FFF6F7;
+}
+
+.number_q {
+  color: #000;
+  font-family: "Poppins", sans-serif;
+  font-size: 0.875rem;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+}
+
+.number_a {
+  border-radius: 1rem;
+  background: #F8FAFF;
+  color: #216C84;
+  font-family: "Poppins", sans-serif;
+  font-size: 0.75rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}

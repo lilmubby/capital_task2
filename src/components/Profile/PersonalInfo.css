@@ -1,0 +1,80 @@
+.personal_info_wrapper {
+  display: flex;
+padding: 1.5rem;
+flex-direction: column;
+gap: 1rem;
+align-self: stretch;
+}
+.personal_info_wrapper h2 {
+  color: #0B0B0B;
+font-family: "Poppins", sans-serif;
+font-size: 0.875rem;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+
+.personal_info_container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.personal_info_container .nationality,
+.personal_info_container .national_id,
+.personal_info_container .gender,
+.personal_info_container .dob{
+  display: flex;
+padding: 0.5rem 0rem;
+align-items: center;
+gap: 0.8125rem;
+flex: 1 0 0;
+}
+.personal_info_container .nationality .nationality_icon, 
+.personal_info_container .national_id .nationality_icon,
+.personal_info_container .gender .gender_icon,
+.personal_info_container .dob .dob_icon
+{
+  border-radius: 0.5rem;
+border: 0.5px solid #ECECEC;
+background: #FFF;
+width: 1.25rem;
+height: 1.25rem;
+}
+.personal_info_container .nationality .national_container,
+.personal_info_container .national_id .national_id_container,
+.personal_info_container .gender .gender_container,
+.personal_info_container .dob .dob_container
+{
+  display: flex;
+width: 16.5rem;
+flex-direction: column;
+align-items: flex-start;
+gap: 0.5rem;
+}
+.personal_info_container .nationality .national_container h3,
+.personal_info_container .national_id .national_id_container h3,
+.personal_info_container .gender .gender_container h3,
+.personal_info_container .dob .dob_container h3
+{
+  color: #5F5F5F;
+font-family: "Poppins" sans-serif;
+font-size: 0.875rem;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.personal_info_container .nationality .national_container p,
+.personal_info_container .national_id .national_id_container p,
+.personal_info_container .gender .gender_container p,
+.personal_info_container .dob .dob_container p
+{
+  color: #0B0B0B;
+font-family: "Poppins", sans-serif;
+font-size: 0.875rem;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+

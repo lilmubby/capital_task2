@@ -1,0 +1,165 @@
+.profile_container {
+  display: flex;
+padding: 1.5rem 1rem;
+align-items: flex-start;
+gap: 2rem;
+align-self: stretch;
+border-radius: 1rem;
+background: #FFF;
+}
+
+.profile_video_container {
+  /* display: flex; */
+width: 5.5rem;
+height: 5.5rem;
+padding: 1.25rem 1.22225rem 1.22225rem 1.25rem;
+/* justify-content: center; */
+/* align-items: center; */
+border-radius: 6.25rem;
+/* background: url("../../assets/Vdo.png"), lightgray 50% / cover no-repeat; */
+background-image: url("../../assets/Vdo.png");
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+}
+.profile_video_container img {
+/* width: 5.5rem; */
+/* width: inherit; */
+/* height: 5.5rem; */
+/* padding: 1.25rem 1.22225rem 1.22225rem 1.25rem; */
+
+}
+
+.profile_info {
+  display: flex;
+flex-direction: column;
+align-items: flex-start;
+gap: 1rem;
+flex: 1 0 0;
+}
+
+.profile_info .profile_heading {
+  display: flex;
+align-items: center;
+gap: 1rem;
+}
+.profile_info .profile_heading h3 {
+  color: #000;
+font-family: "Poppins", sans-serif;
+font-size: 0.875rem;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+.profile_info .profile_heading .profile_job_tags {
+  display: flex;
+align-items: flex-start;
+gap: 0.5rem;
+}
+.profile_info .profile_heading .profile_job_tags > span {
+  border-radius: 1rem;
+background: #F3FAFC;
+color: #6B6B6B;
+font-family: "Poppins", sans-serif;
+font-size: 0.5rem;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+.profile_info .profile_contact {
+  display: flex;
+align-items: flex-start;
+gap: 0.5rem;
+}
+.profile_info .profile_contact p {
+  color: #000;
+font-family: "Poppins", sans-serif;
+font-size: 0.625rem;
+font-style: normal;
+font-weight: 300;
+line-height: normal;
+}
+.profile_info .profile_contact .pipe_neutral {
+  color: #000;
+font-family: "Poppins", sans-serif;
+font-size: 0.625rem;
+font-style: normal;
+font-weight: 300;
+line-height: normal;
+}
+.profile_info .profile_tag_container {
+  display: flex;
+align-items: center;
+gap: 0.5rem;
+}
+.profile_info .profile_tag_container div {
+  display: flex;
+height: 1.125rem;
+padding: 0rem 0.5rem;
+align-items: center;
+gap: 0.5rem;
+border-radius: 0.625rem;
+background: #F5F8FF;
+}
+.profile_info .profile_tag_container div span {
+  color: #808EA3;
+font-family: "Poppins", sans-serif;
+font-size: 0.625rem;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.profile_info .profile_tag_container div img {
+  width: 0.75rem;
+  height: 0.75rem;
+}
+
+.profile_info .profile_tag_container button {
+  display: flex;
+align-items: center;
+gap: 0.5rem;
+border: 0;
+outline: 0;
+}
+.profile_info .profile_tag_container button img {
+  width: 0.625rem;
+height: 0.625rem;
+}
+.profile_info .profile_tag_container button span {
+  color: #9AA6AC;
+font-family: "Poppins", sans-serif;
+font-size: 0.625rem;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.profile_container .profile_score_wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  gap: 2rem;
+  height: 85px;
+}
+.profile_container .profile_score_wrapper .profile_score {
+  display: flex;
+width: 11.8125rem;
+height: 2.5rem;
+padding: 0.5rem 0.5rem 0.5rem 1rem;
+justify-content: space-between;
+align-items: center;
+border-radius: 1rem;
+background: #FFF;
+box-shadow: 0px 4px 25px 0px rgba(29, 78, 216, 0.05);
+}
+.profile_container .profile_score_wrapper .profile_applied {
+  color: #A8A8A8;
+font-family: "Poppins", sans-serif;
+font-size: 0.625rem;
+font-style: normal;
+font-weight: 275;
+line-height: normal;
+align-self: flex-end;
+/* margin-bottom: -1px; */
+}
