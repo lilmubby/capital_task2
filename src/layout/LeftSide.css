@@ -8,3 +8,8 @@
   position: sticky;
   top: 0;
 }
+
+.leftside_container .person:nth-child(5) {
+  background-color: #F5F8FF;
+  border-radius: 1rem;
+}

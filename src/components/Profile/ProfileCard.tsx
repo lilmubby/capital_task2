@@ -9,7 +9,7 @@ const ProfileCard = () => {
       </div>
       <div className='profile_info'>
         <div className='profile_heading'>
-          <h3>Full Name</h3>
+          <h3>Aaliyah Sanderson</h3>
           <div className='profile_job_tags'>
             <span>New York</span>
             <span>Marketing</span>
@@ -18,11 +18,11 @@ const ProfileCard = () => {
         </div>
 
         <div className='profile_contact'>
-          <p>Location</p>
+          <p>Saudi Arabia</p>
           <span className='pipe_neutral'>|</span>
-          <p>Email</p>
+          <p>aaliyahs@gmail.com</p>
           <span className='pipe_neutral'>|</span>
-          <p>Phone</p>
+          <p>+00 000 000 0000</p>
         </div>
 
         <div className='profile_tag_container'>
