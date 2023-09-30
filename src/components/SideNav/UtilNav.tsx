@@ -1,4 +1,3 @@
-import React from 'react'
 import Setting from '../../assets/Settings.png'
 
 const UtilNav = () => {

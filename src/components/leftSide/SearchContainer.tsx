@@ -1,4 +1,3 @@
-import React from 'react'
 import Search from "../../assets/Search_Magnifying_Glass.png"
 import Circle from "../../assets/Circle_Warning.png"
 import Filter from "../../assets/Filter.png"

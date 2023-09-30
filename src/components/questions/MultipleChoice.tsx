@@ -1,4 +1,3 @@
-import React from 'react'
 import "./MultipleChoice.css"
 import green from "../../assets/Ellipse 1925.png"
 

@@ -1,4 +1,3 @@
-import React from 'react'
 import Short from './Short'
 import Video from './video'
 import Number from './Number'

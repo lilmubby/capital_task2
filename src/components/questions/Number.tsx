@@ -1,4 +1,3 @@
-import React from 'react'
 import pale from "../../assets/Ellipse 1924.png"
 import "./Number.css"
 

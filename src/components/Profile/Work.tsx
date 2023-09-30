@@ -1,4 +1,3 @@
-import React from 'react'
 import work from "../../assets/Suitcase.png"
 import "./Work.css"
 

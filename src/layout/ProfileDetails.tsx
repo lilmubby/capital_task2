@@ -1,4 +1,3 @@
-import React from 'react'
 import ProfileCard from '../components/Profile/ProfileCard'
 import ProfileTab from '../components/Profile/ProfileTab'
 import PersonalInfo from '../components/Profile/PersonalInfo'

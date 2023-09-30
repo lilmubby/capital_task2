@@ -1,4 +1,3 @@
-import React from 'react'
 import { programs } from '../../lib'
 import ProgramsList from './ProgramsList'
 import "./Programs.css"

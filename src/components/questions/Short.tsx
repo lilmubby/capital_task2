@@ -1,4 +1,3 @@
-import React from 'react'
 import "./short.css"
 import yellow from "../../assets/Ellipse 192.png"
 

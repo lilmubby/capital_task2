@@ -1,14 +1,11 @@
-import React from 'react'
 import Plus from "../../assets/Add_Plus_Circle.png"
 import X from "../../assets/close.png"
 import "./ProfileCard.css"
-import vdo from "../../assets/Vdo.png"
 
 const ProfileCard = () => {
   return (
     <div className='profile_container'>
       <div className='profile_video_container'>
-        {/* <img src={vdo} alt="" /> */}
       </div>
       <div className='profile_info'>
         <div className='profile_heading'>

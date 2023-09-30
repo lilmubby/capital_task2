@@ -1,4 +1,3 @@
-import React from 'react'
 import Checkbox from "../../assets/Default.png"
 import { barBtn } from '../../lib'
 import "./QualifiedBar.css"

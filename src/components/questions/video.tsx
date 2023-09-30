@@ -1,4 +1,3 @@
-import React from 'react'
 import "./Video.css"
 import blue from "../../assets/Ellipse 1923.png"
 import video from "../../assets/Vdo.png"

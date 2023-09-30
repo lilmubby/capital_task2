@@ -1,4 +1,3 @@
-import React from 'react'
 import "./DropDown.css"
 import blue from "../../assets/Ellipse 1926.png"
 

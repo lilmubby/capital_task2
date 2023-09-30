@@ -1,4 +1,3 @@
-import React from 'react'
 import { title } from '../../lib'
 import "./ProfileTab.css"
 

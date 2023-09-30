@@ -1,4 +1,3 @@
-import React from 'react'
 import Home from "../../assets/home.png"
 import Users from "../../assets/Users_Group.png"
 import Calender from "../../assets/calender.png"

@@ -31,7 +31,7 @@ export const persons: {}[] = [
   },
 ] 
 
-const junk = {
+export const junk = {
   lName: '',
     Mname: '',
     email: '',

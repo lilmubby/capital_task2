@@ -1,7 +1,6 @@
-import React from 'react'
 import Avatar from '../components/SideNav/Avatar'
-import Icons from '../components/SideNav/icons'
-import UtilNav from '../components/SideNav/utilNav'
+import Icons from '../components/SideNav/Icons'
+import UtilNav from '../components/SideNav/UtilNav'
 import "./SideNav.css"
 
 const SideNav = () => {

@@ -1,4 +1,3 @@
-import React from 'react'
 import "./PersonalInfo.css"
 import Nationality from "../../assets/UserCircle.png"
 import NationalID from "../../assets/User_Square.png"

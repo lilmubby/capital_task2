@@ -1,4 +1,3 @@
-import React from 'react'
 import "./Resume.css"
 import hidden from "../assets/Show.png"
 import downloadIcon from "../assets/File_Download.png"

@@ -1,4 +1,3 @@
-import React from 'react'
 import LSHeader from '../components/leftSide/LSHeader'
 import SearchContainer from '../components/leftSide/SearchContainer'
 import QualifiedBar from '../components/leftSide/QualifiedBar'

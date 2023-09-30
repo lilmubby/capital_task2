@@ -1,4 +1,3 @@
-import React from 'react'
 import "./Edu.css"
 import edu from "../../assets/Building_04.png"
 

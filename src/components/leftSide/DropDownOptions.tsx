@@ -1,4 +1,3 @@
-import React from 'react'
 import { categories } from '../../lib'
 
 const DropDownOptions = () => {

@@ -1,4 +1,3 @@
-import React from 'react'
 import Arrow_Down from "../../assets/Caret_Down_MD.png"
 import "./LSHeader.css"
 
